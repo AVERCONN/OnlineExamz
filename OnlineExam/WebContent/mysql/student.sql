@@ -1,0 +1,1 @@
+INSERT INTO `student` (`id`, `username`, `sname`, `sex`, `xueli`, `card`, `address`, `telephone`, `university`, `email`, `password`, `special`) VALUES (6, '112i', '林嘉嘉', '女', '本科', '445323198002102120', '河南东路', '15766229087', '广州大学', NULL, '123', '英语专业');
